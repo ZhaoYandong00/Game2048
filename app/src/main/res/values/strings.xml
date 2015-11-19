@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game2048</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score</string>
+    <string name="wo">达到2048有惊喜！！！</string>
+    <string name="hscore">最高分</string>
+</resources>
